@@ -3,7 +3,7 @@
 
 ### About Me 👦
 - 🔭 I’m currently working on: Some cool apps
-- 🌱 I’m currently learning: Blazor & MAUI & Python
+- 🌱 I’m currently learning: Blazor & MAUI / OpenCV & Yolo & Python
 - 👯 I’m looking to collaborate on: Anything cool
 - 📫 How to reach me: rodrigoratan@gmail.com
 
